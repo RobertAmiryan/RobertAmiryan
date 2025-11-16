@@ -1,10 +1,5 @@
 
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://dummyimage.com/1200x260/0C2340/ffffff&text=Robert+Amiryan+|+Digital+Design+Engineer+%26+CAD+Automation" />
-</p>
-
 # 👋 Hi, I'm Robert Amiryan  
 ### Digital Design Engineer • Python Developer • CAD/EDA Automation
 
@@ -13,7 +8,7 @@ I'm a Digital Design Engineer with hands-on experience in:
 - 🧮 **Data processing & tool development** for silicon flows
 - 🧪 **Verification-aligned automation systems**
 
-I enjoy building tools that make engineering teams:
+I'm enjoy building tools that make engineering teams:
 - faster  
 - more automated  
 - more consistent  
