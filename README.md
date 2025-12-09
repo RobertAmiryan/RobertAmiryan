@@ -72,7 +72,7 @@ This project demonstrates:
 
 ## 📬 Contact Me
 - 📧 **amiryan.robert16@gmail.com**  
-- 🔗 **LinkedIn:** https://linkedin.com/in/robert-amiryan-a97947238  
+- 🔗 **LinkedIn:** https://linkedin.com/in/robertamiryan  
 - 🏙️ Yerevan, Armenia  
   
 ---
